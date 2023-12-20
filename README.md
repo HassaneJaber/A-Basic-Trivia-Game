@@ -9,7 +9,7 @@ Welcome to the Trivia Game! This simple Java-based GUI application allows users 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -32,16 +32,16 @@ To run the Trivia Game on your local machine, follow these steps:
    git clone https://github.com/yourusername/trivia-game.git
 
 
-##Navigate to the project directory:
+## Navigate to the project directory:
 
 cd trivia-game
 
-##Compile and run the application:
+## Compile and run the application:
 
 javac TriviaGame.java
 java TriviaGame
 
-##Usage
+## Usage
 Answer each trivia question by selecting one of the multiple-choice options.
 Click the "Next" button to proceed to the next question.
 After answering all questions, the game will display your score and provide feedback.
