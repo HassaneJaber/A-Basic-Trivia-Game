@@ -2,7 +2,7 @@
 
 Welcome to the Trivia Game! This simple Java-based GUI application allows users to play a trivia quiz with questions from various mainstream topics.
 
-# Trivia Game
+
 
 This repository contains two versions of the Trivia Game project:
 
