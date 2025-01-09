@@ -2,6 +2,23 @@
 
 Welcome to the Trivia Game! This simple Java-based GUI application allows users to play a trivia quiz with questions from various mainstream topics.
 
+# Trivia Game
+
+This repository contains two versions of the Trivia Game project:
+
+1. **Basic Trivia Game**:
+   - Location: `/basic-trivia/`
+   - File: `TriviaGame.java`
+   - Description: A basic trivia game using Java's Swing library.
+
+2. **JavaFX Trivia Game**:
+   - Location: `/javafx-trivia/`
+   - Files:
+     - `javafxtrivia.java`: The main JavaFX-based trivia game application.
+     - `triviafxml.fxml`: The FXML layout file for the JavaFX version.
+   - Description: An enhanced trivia game using JavaFX for modern UI and layout features.
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
